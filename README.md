@@ -3,7 +3,7 @@ TAMID-Template
 
 TAMID Template
 
-Shout out to AJ for making this cool template for all of the TAMID chapaters to use
+Shout out to AJ for making this cool template for all of the TAMID chapters to use
 https://github.com/tommy-taco/
 
 
